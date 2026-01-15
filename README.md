@@ -25,7 +25,7 @@ Currently configured to use:
 1. Clone this repository:
    ```bash
    git clone https://github.com/demersaj/airLLM-test.git
-   cd air-llm-test
+   cd airLLM-test
    ```
 
 2. Create a virtual environment:
