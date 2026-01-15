@@ -1,3 +1,4 @@
 mlx-lm
 airllm
 torch
+bitsandbytes

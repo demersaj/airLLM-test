@@ -24,7 +24,7 @@ Currently configured to use:
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/demersaj/airLLM-test.git
    cd air-llm-test
    ```
 
