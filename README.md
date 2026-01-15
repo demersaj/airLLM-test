@@ -1,6 +1,6 @@
 # AirLLM Test
 
-A simple test project for benchmarking LLM inference performance using [airllm](https://github.com/airllm/airllm) with MLX (Apple Silicon optimized).
+A simple test project for benchmarking LLM inference performance using [airllm](https://github.com/lyogavin/airllm) with MLX (Apple Silicon optimized).
 
 ## Overview
 
